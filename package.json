@@ -1,0 +1,16 @@
+{
+  "name": "modulo16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "gulp sass"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-uglify": "^3.0.2"
+  }
+}
